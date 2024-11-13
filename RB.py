@@ -1,3 +1,3 @@
 import os
 import RB
-RB.loging
+RB.loging()
