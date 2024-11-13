@@ -1,3 +1,3 @@
 import os
 import RB
-SADIK.loging()
+RB.loging()
