@@ -1,2 +1,3 @@
+import os
 import RB
-RB.SADIK
+RB.login()
